@@ -39,3 +39,6 @@ https://github.com/cjhutto/vaderSentiment#python-code-example
     -- $ for i in *; do mv "$i" "$i.txt"; done
 
 -Split and .txt for both inu and bach files
+
+
+holding onto split comments in case i need them again so that i don't have to redo it.

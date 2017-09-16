@@ -1,7 +1,7 @@
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 
-
+# how to read excel file?
 analyser = SentimentIntensityAnalyzer()
 def print_sentiment_scores(sentence):
     snt = analyser.polarity_scores(sentence)
